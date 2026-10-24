@@ -1,0 +1,14 @@
+# Environnement virtuel Python
+.venv/
+venv/
+env/
+ENV/
+
+# Fichiers de configuration et variables d'environnement (clés API, mots de passe)
+.env
+.env.local
+
+# Caches Python (fichiers compilés)
+**/__pycache__/
+*.py[cod]
+*$py.class
